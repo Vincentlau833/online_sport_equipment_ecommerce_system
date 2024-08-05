@@ -1,0 +1,117 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 28 Mar 2023, 8:53:11 pm
+    Author     : ASUS
+*/
+body {
+    font-family: Arial, sans-serif;
+    background-image: url('../images/login_background.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+tbody{
+    border-radius: 5px;
+}
+
+.submit{
+    padding-left: 23%;
+}
+
+.label{
+    padding-left: 10px;
+}
+
+.RegisterButton {
+    width: 50%;
+    padding-top: 10PX;
+    padding-bottom: 10PX;
+    background-color: #00203F;
+    border: none;
+    font-weight: bold;
+    border-radius: 8px;
+    color: whitesmoke;
+}
+
+.RegisterButton:hover {
+    background-color: #ADEFD1;
+    color: #00203F;
+    cursor: pointer;
+}
+
+.input {
+    border: 2px solid #A0E9E6;
+    padding: 8px;
+    padding-left: 35px;
+    width: 80%;
+    display: inline-block;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.regTable-left {
+    text-align: right;
+    background-image: linear-gradient(#FFC163, #B9EAEB);
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 9px;
+}
+
+#registerIcon1, #registerIcon2, #registerIcon3, #registerIcon4 {
+    padding-left: 10px;
+    padding-top: 8px;
+    position: absolute;
+}
+
+.regTable-right {
+    background-color: whitesmoke;
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 9px;
+}
+
+h2 {
+    padding-top: 30px;
+    text-align: center;
+}
+
+#registerCandidateTable {
+    margin: 80px auto 80px;
+    width: 50%;
+    border-collapse: collapse;
+}
+
+.auto-style2{
+    margin:auto;
+}
+
+.lbl{
+    padding-left:35px;
+}
+
+.loginNow {
+    border-radius: 8px;
+    margin-left: 23%;
+    text-align: center;
+    background-color: #504159;
+    width: 40%;
+    padding-top: 10PX;
+    padding-bottom: 10PX;
+}
+
+.loginNow:hover{
+    background-color: #00203F;
+}
+
+a:link {
+    color: whitesmoke;
+}
+
+a:active {
+    color: whitesmoke;
+}
+
+a:visited {
+    color: whitesmoke;
+}

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Product.xsl'?><Products>
+ <Product>
+  <id>46</id>
+  <name>Basketball </name>
+  <price>100</price>
+  <desc>678</desc>
+  <stockQuantity>1001</stockQuantity>
+ </Product>
+ <Product>
+  <id>47</id>
+  <name>Football </name>
+  <price>100</price>
+  <desc>100</desc>
+  <stockQuantity>1001</stockQuantity>
+ </Product>
+ <Product>
+  <id>48</id>
+  <name>Shuttlecock</name>
+  <price>89</price>
+  <desc>Shuttlecock&#13;
+</desc>
+  <stockQuantity>500</stockQuantity>
+ </Product>
+ <Product>
+  <id>49</id>
+  <name>Xiaoke</name>
+  <price>69</price>
+  <desc>This is xiaoke</desc>
+  <stockQuantity>8</stockQuantity>
+ </Product>
+ <Product>
+  <id>50</id>
+  <name>test </name>
+  <price>6969</price>
+  <desc>a</desc>
+  <stockQuantity>1001</stockQuantity>
+ </Product>
+</Products>

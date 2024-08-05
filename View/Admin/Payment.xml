@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Payment.xsl'?><PaymentRecords>
+ <Payment>
+  <id>1</id>
+  <amount>682.52</amount>
+  <method>Online Banking</method>
+  <date>2023-05-05</date>
+  <time>13:41:17</time>
+ </Payment>
+ <Payment>
+  <id>2</id>
+  <amount>912.03</amount>
+  <method>Online Banking</method>
+  <date>2023-05-05</date>
+  <time>15:15:44</time>
+ </Payment>
+ <Payment>
+  <id>3</id>
+  <amount>681.5</amount>
+  <method>Online Banking</method>
+  <date>2023-05-05</date>
+  <time>15:15:59</time>
+ </Payment>
+ <Payment>
+  <id>4</id>
+  <amount>634.56</amount>
+  <method>Online Banking</method>
+  <date>2023-05-05</date>
+  <time>15:16:10</time>
+ </Payment>
+ <Payment>
+  <id>5</id>
+  <amount>100</amount>
+  <method>Online Banking</method>
+  <date>2023-05-09</date>
+  <time>16:32:35</time>
+ </Payment>
+ <Payment>
+  <id>6</id>
+  <amount>400</amount>
+  <method>Online Banking</method>
+  <date>2023-05-09</date>
+  <time>20:16:05</time>
+ </Payment>
+ <Payment>
+  <id>7</id>
+  <amount>69</amount>
+  <method>Online Banking</method>
+  <date>2023-05-11</date>
+  <time>10:32:08</time>
+ </Payment>
+ <Payment>
+  <id>8</id>
+  <amount>0</amount>
+  <method>Online Banking</method>
+  <date>2023-05-11</date>
+  <time>20:44:35</time>
+ </Payment>
+ <Payment>
+  <id>9</id>
+  <amount>41814</amount>
+  <method>Online Banking</method>
+  <date>2023-05-12</date>
+  <time>12:36:57</time>
+ </Payment>
+</PaymentRecords>

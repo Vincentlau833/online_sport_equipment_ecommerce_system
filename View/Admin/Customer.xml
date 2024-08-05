@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/xsl' href='Customer.xsl'?><Customers>
+ <Customer>
+  <id>2</id>
+  <userName>peh</userName>
+  <email>peh@gmail.com</email>
+  <gender>M</gender>
+  <contactNo></contactNo>
+ </Customer>
+ <Customer>
+  <id>3</id>
+  <userName>cypeh</userName>
+  <email>choonyangpeh@gmail.com</email>
+  <gender>M</gender>
+  <contactNo>0177384766</contactNo>
+ </Customer>
+ <Customer>
+  <id>5</id>
+  <userName>Lin</userName>
+  <email>lim@gmail.com</email>
+  <gender>F</gender>
+  <contactNo>0123456789</contactNo>
+ </Customer>
+ <Customer>
+  <id>7</id>
+  <userName>peh0918</userName>
+  <email>cypeh@gmail.com</email>
+  <gender>M</gender>
+  <contactNo>0177384766</contactNo>
+ </Customer>
+ <Customer>
+  <id>8</id>
+  <userName>Vincent</userName>
+  <email>xiaoke@gmail.com</email>
+  <gender>M</gender>
+  <contactNo>0175942833</contactNo>
+ </Customer>
+ <Customer>
+  <id>9</id>
+  <userName>peh</userName>
+  <email>choonyangpeh123@gmail.com</email>
+  <gender>M</gender>
+  <contactNo></contactNo>
+ </Customer>
+</Customers>

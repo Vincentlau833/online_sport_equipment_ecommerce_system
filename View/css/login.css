@@ -1,0 +1,117 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 28 Mar 2023, 7:25:47 pm
+    Author     : ASUS
+*/
+
+body {
+    background-image: url('../images/login_background.jpg');
+    background-repeat: no-repeat;
+    height: 150%;
+    font-family: Arial, sans-serif;
+    background-size: cover;
+}
+
+#emaillabel, #pwdlabel{
+    text-align: right;
+    padding-top: 1px;
+}
+
+.loginContent{
+    border-radius: 10px; 
+    width: 25%;
+    margin: auto;
+    height: 500px;
+    background-color: whitesmoke;
+}
+
+#envelope, #lock{
+    padding-left: 200px;
+    position: absolute;
+}
+
+#form{
+    padding-top: 50px;
+    padding-bottom: 200px;
+}
+
+.tr1{
+    padding-top: 10px;
+}
+
+#icon {
+    text-align: center;
+}
+
+.formTable{
+    margin: auto;
+}
+
+.tr2{
+    padding-top: 20px;
+}
+
+.textPwd, .textEmail {
+    width: 65%;
+    display: inline-block;
+    border: 2px solid #A0E9E6;
+    padding: 8px;
+    padding-left: 10px;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+
+.tr2{
+    padding-right: 10px;
+}
+
+
+.btnContainer {
+    text-align: center;
+}
+
+.userBtnLogin {
+    width: 42%;
+    padding-top: 10PX;
+    padding-bottom: 10PX;
+    background-color: #00203F;
+    border: none;
+    font-weight: bold;
+    border-radius: 8px;
+    color: whitesmoke;
+}
+
+.userBtnLogin:hover {
+    background-color: #ADEFD1;
+    color: #00203F;
+    cursor: pointer;
+}
+
+.registerNow {
+    border-radius: 8px;
+    margin: auto;
+    background-color: #504159;
+    width: 40%;
+    padding-top: 10PX;
+    padding-bottom: 10PX;
+}
+
+.registerNow:hover {
+    background-color: #B8B9D6;
+    color: #00203F;
+}
+
+a:link {
+    color: whitesmoke;
+}
+
+a:active {
+    color: whitesmoke;
+}
+
+a:visited {
+    color: whitesmoke;
+}

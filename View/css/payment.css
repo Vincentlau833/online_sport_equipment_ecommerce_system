@@ -1,0 +1,119 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/Other/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 4 Apr 2023, 7:55:56 pm
+    Author     : ASUS
+*/
+
+
+form{
+  backdrop-filter: blur(5px);
+}
+
+h2{
+text-align:left;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.checkout1 {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -10px;
+}
+
+.checkout5 {
+  flex: 25%;
+}
+
+.checkout4 {
+  flex: 50%;
+}
+
+.checkout2 {
+  flex: 75%;
+}
+
+.checkout5,
+.checkout4,
+.checkout2 {
+  padding: 0 16px;
+}
+
+.checkout3 {
+  background-color: #cfcccc85;
+  padding: 3px 18px 13px 18px;
+  border: 1px solid lightgrey;
+  border-radius: 3px;
+}
+
+input[type=text]{
+  width: 100%;
+  margin-bottom: 20px;
+  padding: 12px;
+  border: 1px solid;
+  border-radius: 3px;
+}
+
+
+select,input[type=number], #month, #email{
+    width: 500px;
+    height: 43px;
+    border: 1px solid;
+    border-radius: 3px;
+    margin-bottom: 20px;
+    padding: 12px;
+}
+
+label {
+  margin-bottom: 10px;
+  display: block;
+}
+
+.icon{
+  margin-bottom: 20px;
+  padding: 7px 0;
+  font-size: 24px;
+}
+
+.payment {
+  background-color: #ffad33;
+  color: white;
+  padding: 12px;
+  margin: 10px 0;
+  border: none;
+  width: 100%;
+  border-radius: 3px;
+  cursor: pointer;
+  font-size: 17px;
+}
+
+.payment:hover {
+  background-color: #f1c40f;
+}
+
+a {
+  color: black;
+}
+
+hr {
+  border: solid black;
+}
+
+span.price {
+  float: right;
+}
+
+@media (max-width: 800px) {
+  .checkout1 {
+    flex-direction: column-reverse;
+  }
+
+.checkout5 {
+    margin-bottom: 20px;
+  }
+}
