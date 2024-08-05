@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<productList>
+ <Product>
+  <productID>7</productID>
+  <productName>Badminton </productName>
+  <productPrice>10.5</productPrice>
+  <productDesc>Badminton&#13;
+</productDesc>
+  <stockQuantity>150</stockQuantity>
+ </Product>
+ <Product>
+  <productID>8</productID>
+  <productName>Football </productName>
+  <productPrice>150</productPrice>
+  <productDesc>Football</productDesc>
+  <stockQuantity>20</stockQuantity>
+ </Product>
+ <Product>
+  <productID>9</productID>
+  <productName>Baller</productName>
+  <productPrice>100.51</productPrice>
+  <productDesc>Hello</productDesc>
+  <stockQuantity>1111</stockQuantity>
+ </Product>
+ <Product>
+  <productID>10</productID>
+  <productName>Molten Basketball </productName>
+  <productPrice>100</productPrice>
+  <productDesc>Bball</productDesc>
+  <stockQuantity>12</stockQuantity>
+ </Product>
+ <Product>
+  <productID>13</productID>
+  <productName>Hockey </productName>
+  <productPrice>111</productPrice>
+  <productDesc>11112222</productDesc>
+  <stockQuantity>111</stockQuantity>
+ </Product>
+</productList>
